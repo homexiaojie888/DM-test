@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 /**
  * /**
- *  * This is the implementation of the FHUSN algorithm using NSEU (pruning strategy 2) that we have submited at Inf. Sci.
+ *  * This is the implementation of the FHUSN algorithm using NSEU (pruning strategy 2) that we have submitted to Information Science, 2022.
  *  * <br/><br/>
  *  *  Xiaojie Zhang and Fuyin Lai and Guoting chen and Wensheng gan.
  *  *  Mining High-Utility Sequences with Positive and Negative Values.
