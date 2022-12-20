@@ -2,11 +2,10 @@
 import java.io.*;
 import java.util.*;
 /**
- * This is the implementation of the FHUSN algorithm using NPEU(pruning strategy 2) that we have submited at Inf. Sci.
+ * This is the implementation of the FHUSN algorithm using NPEU (pruning strategy 3) that we have submited at Inf. Sci.
  * <br/><br/>
  *  Xiaojie Zhang and Fuyin Lai and Guoting chen and Wensheng gan.
- *  Mining High-Utility Sequences with Positive and Negative Values. Proc. 11th International Conference on Machine
- *  Learning and Data Mining.
+ *  Mining High-Utility Sequences with Positive and Negative Values.
  * <br/>
  *
  * ProUM：
